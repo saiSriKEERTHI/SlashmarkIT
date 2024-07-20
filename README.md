@@ -1,4 +1,4 @@
-SLASH MARK IT Fullstcak WEB-Development internship
+SLASH MARK IT Fullstack WEB-Development internship
 
 *BASIC TASKS*
 
